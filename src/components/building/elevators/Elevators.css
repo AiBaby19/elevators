@@ -1,0 +1,16 @@
+#elevators-container {
+    display: flex;
+    flex-direction: row;
+    top: 0;
+    height: 100%;
+    /* position: absolute; */
+    justify-content: space-around;
+    /* margin-top: 5em; */
+    border: 1px solid green;
+}
+
+#elevator {
+    width: 5em;
+    height: 5em;
+    border: 1px solid black;
+}
